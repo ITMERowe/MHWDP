@@ -1,0 +1,41 @@
+.Card-monster{
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: auto;
+    background: #5F4DED;
+    border-radius: 0px 0px 30px 0px;
+    box-shadow: 0px 1px 12px 1px rgba(0, 0, 0, 0.507);
+    overflow: hidden;
+}
+.lower-container-monster{
+    text-align: center;
+    height: auto;
+    background: #5F4DED;
+    color: #F3F6FD;
+    font-family: Helvetica, sans-serif;
+}
+.lower-container-monster h4{
+    margin: 0;
+    margin-bottom: 5px;
+    padding-left: 120px;
+    font-weight: 700;
+    font-size: 12px;
+    text-align: left;
+    text-transform: capitalize;
+}
+.lower-container-monster h2{
+    margin: 0;
+    margin-bottom: 5px;
+    padding-left: 120px;
+    text-align: left;
+    text-transform: capitalize;
+}
+.lower-container-monster h6{
+    margin: 0;
+    margin-bottom: 5px;
+    padding-left: 120px;
+    padding-right: 120px;
+    text-align: left;
+}
